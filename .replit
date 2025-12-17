@@ -1,1 +1,1 @@
-run = "bash start.sh"
+run = "bash start_replit_minimal.sh"
