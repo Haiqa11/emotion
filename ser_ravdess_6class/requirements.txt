@@ -6,6 +6,4 @@ soundfile
 noisereduce
 matplotlib
 seaborn
-# Use tflite-runtime for lightweight inference on Streamlit Cloud
-tflite-runtime
 streamlit>=1.28.0
