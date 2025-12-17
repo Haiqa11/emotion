@@ -1,0 +1,9 @@
+﻿numpy
+pandas
+scikit-learn
+librosa
+soundfile
+noisereduce
+matplotlib
+seaborn
+streamlit>=1.28.0
